@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  weather_api
+
+  Created by User17 on 2020/6/22.
+  Copyright © 2020 ntou. All rights reserved.
+*/
+
+"地區" = "地區";
+"台灣地理資訊" = "台灣地理資訊";
+"中央氣象局官網" = "中央氣象局官網";
+"weather" = "天氣";
+"Apilist" = "資訊";
+"Imagepicker" = "圖片";
+"Video" = "影片";
+

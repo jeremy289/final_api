@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  weather_api
+
+  Created by User17 on 2020/6/22.
+  Copyright © 2020 ntou. All rights reserved.
+*/
+
+"地區" = "Region";
+"台灣地理資訊" = "Taiwan Geographic Information";
+"中央氣象局官網" = "Central Meteorological Administration";
+"氣象網站" = "Meteorological Website";
